@@ -1,8 +1,7 @@
 # 🌟 AI Quote Generator
 
-<div align="center">
-  <img src="![Screenshot 2025-01-12 124253](https://github.com/user-attachments/assets/5f9da6b9-e093-42b1-8c0b-c697244a1b51)
-" alt="AI Quote Generator Preview" width="600px" />
+![image](https://github.com/user-attachments/assets/7c6b9150-85d5-440f-ab2b-632903010ea7)
+
 
   <p align="center">
     <strong>Transform your mood into inspiring words with AI-powered wisdom</strong>
