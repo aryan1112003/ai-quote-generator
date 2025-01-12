@@ -147,7 +147,7 @@ const techStack = {
 
 ## 📝 License
 
-Copyright © 2024 AI Quote Generator. All rights reserved.
+Copyright © 2025 AI Quote Generator. All rights reserved.
 
 ---
 
