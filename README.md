@@ -1,6 +1,6 @@
 # 🌟 AI Quote Generator
 
-![image](https://github.com/user-attachments/assets/7c6b9150-85d5-440f-ab2b-632903010ea7)
+![image](https://github.com/user-attachments/assets/413bef79-8907-47db-b482-38e7db0af44c)
 
 
   <p align="center">
